@@ -1,0 +1,14 @@
+{
+  "name": "request-response",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx ts-node server.ts"
+  },
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
