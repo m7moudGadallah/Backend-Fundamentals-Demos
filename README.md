@@ -15,6 +15,7 @@ This repository contains a collection of demos that are used in the Backend Fund
 - [Synchronous vs Asynchronous](./communication-patterns//synchronous-vs-asynchronous/)
 - [Push](./communication-patterns/push)
 - [Short Polling](./communication-patterns/short-polling/)
+- [Long Polling](./communication-patterns/long-polling/)
 
 ## Disclaimer
 
