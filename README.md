@@ -16,6 +16,7 @@ This repository contains a collection of demos that are used in the Backend Fund
 - [Push](./communication-patterns/push)
 - [Short Polling](./communication-patterns/short-polling/)
 - [Long Polling](./communication-patterns/long-polling/)
+- [Server Sent Events](./communication-patterns/server-sent-events/)
 
 ## Disclaimer
 

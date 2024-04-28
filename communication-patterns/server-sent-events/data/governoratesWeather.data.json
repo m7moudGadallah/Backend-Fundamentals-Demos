@@ -1,0 +1,47 @@
+[
+  {
+    "id": "a0e20207-6b41-4e1f-9ad4-aa0b421731df",
+    "name": "Cairo",
+    "temperature": 22,
+    "humidity": 20,
+    "weatherDescription": "Windy",
+    "windSpeed": 5,
+    "date": "2024-04-28T16:56:03.974Z"
+  },
+  {
+    "id": "3c9c32c7-f57d-45dc-a3a2-483abf3c1b95",
+    "name": "Alexandria",
+    "temperature": 28,
+    "humidity": 30,
+    "weatherDescription": "Sunny",
+    "windSpeed": 14,
+    "date": "2024-04-28T16:56:03.975Z"
+  },
+  {
+    "id": "4e8c4c45-1d39-4f3c-8a56-2c5cfe9c0bfb",
+    "name": "Giza",
+    "temperature": 36,
+    "humidity": 36,
+    "weatherDescription": "Partly Cloudy",
+    "windSpeed": 4,
+    "date": "2024-04-28T16:56:03.977Z"
+  },
+  {
+    "id": "9f7e5ff1-6e08-47dc-bc6f-77bc915123a0",
+    "name": "Gharbia",
+    "temperature": 26,
+    "humidity": 27,
+    "weatherDescription": "Rainy",
+    "windSpeed": 10,
+    "date": "2024-04-28T16:56:03.977Z"
+  },
+  {
+    "id": "fd3d124d-1aae-44cf-b71e-90f9b4c632f8",
+    "name": "Port Said",
+    "temperature": 28,
+    "humidity": 28,
+    "weatherDescription": "Windy",
+    "windSpeed": 15,
+    "date": "2024-04-28T16:56:03.977Z"
+  }
+]
